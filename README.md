@@ -1,5 +1,5 @@
-1. Created a Database Schema using the IMDB database in Oracle DB 11g
+1. Created a Database Schema of the IMDB database in Oracle DB 11g.
 
-2. Parse the files and insert them into the tables. (Populate.java)
+2. Parsed the data from files to build SQL queries and execute them. (Populate.java)
 
-3. Create a Java Swing GUI using IntelliJ or Netbeans. (hw3.java)
+3. Created a Java Swing GUI using Netbeans. (hw3.java)
